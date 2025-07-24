@@ -25,7 +25,7 @@ Naamee is a React Native social media app built with Expo.
 Clone the repository and install dependencies:
 
 ```sh
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/rojisharma1968/Naamee-app.git)
 cd Naamee
 npm install
 ```
